@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "buffer-split": "^1.0.0",
+    "statistics": "^3.3.0"
+  }
+}

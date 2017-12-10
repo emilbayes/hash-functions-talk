@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "compile": "wat2js djb2.wat > djb2-wasm.js"
+  },
+  "dependencies": {
+    "wat2js": "1.1.1"
+  }
+}

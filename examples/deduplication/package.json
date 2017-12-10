@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "content-addressable-blob-store": "^4.6.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "clz-buffer": "^1.0.0",
+    "sodium-universal": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-es2017": "^7.0.0-beta.32",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2017": "^6.24.1",
+    "babelify": "^8.0.0",
+    "bankai": "^9.0.0-rc12",
+    "budo": "^10.0.4"
+  }
+}
